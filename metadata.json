@@ -1,0 +1,6 @@
+{
+  "name": "Clutch",
+  "description": "An advanced, proactive personal productivity companion that helps you prioritize, schedule, and execute tasks before deadlines are missed using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
